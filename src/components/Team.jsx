@@ -12,8 +12,6 @@ const Team = () => {
       <div className="w-full h-[700px] bg-gray-900/90 absolute">
         <img className='w-full h-full object-cover mix-blend-overlay ' src='https://images.pexels.com/photos/3845625/pexels-photo-3845625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2' alt='none'/>
 
-
-
       </div>
       <div className="max-w-[1240px] mx-auto text-white relative">
       <div className=" px-4 py-12">
@@ -43,7 +41,7 @@ const Team = () => {
           <div className="p-8">
             <TbWorld size={70} className=' w-16 p-4 text-white bg-[#09a59a] rounded-lg mt-[-4rem]'/>
             <h3 className='font-bold text-2xl my-6'>Technical Support </h3>
-            <p className='text-gray-600 text-xl'>Whether you need a routine refill or have questions about your treatment options, we are here to help you every step of the way. So why wait? Visit Your Trusted Medicine Outlet today</p>
+            <p className='text-gray-600 text-xl'>Our technical support team is well-versed in the technical specifications and details of our products and services. </p>
 
 
           </div>
@@ -56,7 +54,7 @@ const Team = () => {
           <div className="p-8">
             <SiMediamarkt size={70} className=' w-16 p-4 text-white bg-[#09a59a] rounded-lg mt-[-4rem]'/>
             <h3 className='font-bold text-2xl my-6'>Consultation </h3>
-            <p className='text-gray-600 text-xl'>Whether you need a routine refill or have questions about your treatment options, we are here to help you every step of the way. So why wait? Visit Your Trusted Medicine Outlet today</p>
+            <p className='text-gray-600 text-xl'>Our personalized consultation service provides you with one-on-one access to our team of pharmaceutical professionals. </p>
 
 
           </div>

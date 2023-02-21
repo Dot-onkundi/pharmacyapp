@@ -21,7 +21,7 @@ const Navbar = () => {
     <div className='w-screen h-[80px] z-10 bg-[#2b3636] fixed mx-auto drop-shadow-lg'>
         <div className="max-w-[1240px] relative mx-auto px-2 flex justify-between items-center w-full h-full">
             <div className="flex items-center">
-                <h1 className='text-xl font-bold mr-4 sm:text-4xl text-white'>Sadiki Pharmacy</h1>
+                <h1 className='text-xl font-bold mr-4 sm:text-4xl text-white'>Sadiki <span className='text-[#ccaf3d]'> Pharmarcy</span> </h1>
                 <ul className='  pl-28 hidden font-extralight md:flex text-gray-200'>
                
                   <li><Link to="home" smooth={true}  duration={500} >Home</Link></li>
