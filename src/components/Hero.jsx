@@ -19,4 +19,4 @@ const Hero = () => {
   )
 }
 
-export default Heronp
+export default Hero
